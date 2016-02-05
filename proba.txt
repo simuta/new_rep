@@ -1,4 +1,4 @@
 <?php
-echo 'hello, eord!';
+echo 'все говно!';
 i=1;
 ?>
