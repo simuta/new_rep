@@ -1,4 +1,0 @@
-<?php
-echo 'hello, eord!';
-i=1;
-?>
